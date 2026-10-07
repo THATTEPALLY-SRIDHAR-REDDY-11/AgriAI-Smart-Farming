@@ -1,0 +1,664 @@
+[
+  {
+    "id": "doc_tomato_early_blight",
+    "crop": "Tomato",
+    "disease": "Tomato Early Blight",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Alternaria solani",
+    "symptoms": [
+      "Concentric ring brown or black spots on older lower leaves ('bullseye' pattern)",
+      "Yellow halos surrounding brown leaf lesions",
+      "Premature defoliation leaving fruit vulnerable to sunscald",
+      "Dark, sunken leathery lesions on stems and fruit stem-ends"
+    ],
+    "causes": [
+      "High humidity (>80%) and temperatures between 24°C and 29°C",
+      "Fungal spores overwintering in infected plant debris and soil",
+      "Spreading via splash irrigation, wind-blown rain, or contaminated tools"
+    ],
+    "management": [
+      "Apply copper-based fungicides or chlorothalonil at first sign of spots",
+      "Apply bio-fungicides containing Bacillus subtilis as organic control",
+      "Remove and destroy lower infected leaves promptly"
+    ],
+    "prevention": [
+      "Practice 3 to 4 year crop rotation with non-solanaceous crops (e.g. corn, beans)",
+      "Use drip irrigation instead of overhead sprinklers to keep leaves dry",
+      "Mulch soil around base of plants to prevent soil splash onto leaves",
+      "Space plants adequately (60cm apart) to ensure good air circulation"
+    ],
+    "precautions": "Consult local agricultural extension office if leaf yellowing exceeds 30% of plant foliage.",
+    "source": "ICAR - Indian Agricultural Research Institute & USDA Extension Service"
+  },
+  {
+    "id": "doc_tomato_late_blight",
+    "crop": "Tomato",
+    "disease": "Tomato Late Blight",
+    "topic": "Crop Disease",
+    "category": "Oomycete Pathogen",
+    "scientific_name": "Phytophthora infestans",
+    "symptoms": [
+      "Water-soaked dark green to purplish-black lesions on leaf tips and margins",
+      "White cottony fungal mold growth on the undersides of leaves in damp weather",
+      "Rapid wilting, browning, and collapse of entire vine branches",
+      "Firm, brown, leathery rot on tomato fruits"
+    ],
+    "causes": [
+      "Cool, wet weather with high humidity (>90%) and temperatures 15°C - 22°C",
+      "Windborne sporangia travelling miles from infected potato or tomato fields"
+    ],
+    "management": [
+      "Apply systemic fungicides like Mancozeb, Metalaxyl, or Cymoxanil immediately",
+      "Prune affected branches immediately and burn or bury infected plant material (do not compost)"
+    ],
+    "prevention": [
+      "Plant certified disease-resistant tomato cultivars (e.g., Mountain Magic, Defiant)",
+      "Avoid planting tomatoes near potatoes",
+      "Apply protective copper fungicides prior to rainy periods during cool weather"
+    ],
+    "precautions": "Late Blight spreads rapidly across whole regions. Report outbreaks to agricultural authorities.",
+    "source": "FAO Agricultural Knowledge Network & State Agricultural University Extension"
+  },
+  {
+    "id": "doc_tomato_yellow_leaf_curl",
+    "crop": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "topic": "Crop Disease",
+    "category": "Viral Disease",
+    "scientific_name": "Tomato yellow leaf curl virus (TYLCV)",
+    "symptoms": [
+      "Severe stunting of young tomato plants",
+      "Upward curling and cupping of leaf margins",
+      "Yellowing (chlorosis) between leaf veins",
+      "Drastic reduction in fruit setting and small, flower-dropping plants"
+    ],
+    "causes": [
+      "Transmitted by Silverleaf Whitefly (Bemisia tabaci) vector",
+      "Not transmitted by seeds or mechanical contact"
+    ],
+    "management": [
+      "Control whitefly populations using yellow sticky traps and neem oil spray (2-3%)",
+      "Apply insecticidal soaps or imidacloprid / acetamiprid for heavy vector infestations",
+      "Remove virus-infected plants to prevent whiteflies from acquiring and spreading the virus"
+    ],
+    "prevention": [
+      "Use insect-proof mesh netting (50-mesh) over nursery seedlings",
+      "Plant TYLCV-resistant varieties",
+      "Reflective silver mulches to repel whiteflies from young plants"
+    ],
+    "precautions": "Early protection during seedling stage is essential as young infected plants yield zero marketable fruit.",
+    "source": "World Vegetable Center & Agricultural University Advisory"
+  },
+  {
+    "id": "doc_potato_early_blight",
+    "crop": "Potato",
+    "disease": "Potato Early Blight",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Alternaria solani",
+    "symptoms": [
+      "Small dark brown target-like spots with concentric rings on older leaves",
+      "Yellowing around lesions leading to premature leaf drop",
+      "Sunken dark brown spots on potato tubers with corky dry rot underneath"
+    ],
+    "causes": [
+      "Alternating dry and wet weather conditions",
+      "Nitrogen-deficient or stressed potato plants are more susceptible"
+    ],
+    "management": [
+      "Spray mancozeb, azoxystrobin, or difenoconazole according to recommended dosage",
+      "Maintain adequate soil nitrogen and potassium levels through balanced fertilization"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers",
+      "Practice minimum 3-year crop rotation",
+      "Destroy infected crop residue after harvest"
+    ],
+    "precautions": "Ensure tubers are fully mature before harvest to prevent skin wounding and tuber infection.",
+    "source": "Central Potato Research Institute (CPRI) & USDA ARS"
+  },
+  {
+    "id": "doc_potato_late_blight",
+    "crop": "Potato",
+    "disease": "Potato Late Blight",
+    "topic": "Crop Disease",
+    "category": "Oomycete Pathogen",
+    "scientific_name": "Phytophthora infestans",
+    "symptoms": [
+      "Large dark brown/black leaf lesions with pale green yellow borders",
+      "White mildew fuzz under infected leaves during high moisture mornings",
+      "Reddish-brown dry rot extending into potato tuber flesh"
+    ],
+    "causes": [
+      "High relative humidity (>90%) and leaf wetness for more than 10 hours",
+      "Temperatures between 12°C and 24°C"
+    ],
+    "management": [
+      "Spray systemic contact fungicides like Ridomil Gold or Cymoxanil",
+      "Destroy potato vines 2 weeks before harvest (desiccation) to prevent tuber contamination"
+    ],
+    "prevention": [
+      "Plant resistant cultivars (e.g. Kufri Girdhari, Kufri Karan)",
+      "Hill up soil high around plant bases to shield tubers from spores washing down"
+    ],
+    "precautions": "Do not harvest in wet weather when spores are actively floating in soil moisture.",
+    "source": "CPRI Potato Disease Handbook"
+  },
+  {
+    "id": "doc_general_farming_practices",
+    "crop": "General",
+    "disease": "Crop Management Best Practices",
+    "topic": "Crop Management",
+    "category": "Agronomy & Soil Health",
+    "scientific_name": "N/A",
+    "symptoms": [
+      "Low crop yield, nutrient chlorosis, poor root penetration, waterlogging"
+    ],
+    "causes": [
+      "Improper soil pH, over-irrigation, lack of organic matter, monoculture"
+    ],
+    "management": [
+      "Perform soil testing annually to balance N-P-K ratios and micronutrients (Zinc, Boron)",
+      "Apply composted farmyard manure (FYM) or vermicompost at 10-15 tonnes per hectare",
+      "Adopt drip irrigation or fertigation to minimize water waste and leaf moisture"
+    ],
+    "prevention": [
+      "Rotate crops annually with nitrogen-fixing legumes (e.g., chickpea, soybean)",
+      "Maintain soil organic carbon above 0.75%",
+      "Adopt Integrated Pest Management (IPM) combining biological control and threshold spraying"
+    ],
+    "precautions": "Always wear protective gear when handling agricultural sprays and observe harvest wait periods.",
+    "source": "Department of Agriculture & Farmers Welfare Extension Guidelines"
+  },
+  {
+    "id": "doc_tomato_bacterial_spot_ipm",
+    "crop": "Tomato",
+    "disease": "Tomato Bacterial Spot",
+    "topic": "Crop Disease",
+    "category": "Bacterial Disease",
+    "scientific_name": "Xanthomonas spp.",
+    "symptoms": ["Small dark water-soaked leaf spots", "Raised dark spots on fruit"],
+    "causes": ["Bacteria spread by infected seed, transplants, rain splash, and wet handling"],
+    "management": ["Remove severely affected plants and avoid working plants when foliage is wet", "Use locally registered products only when recommended by an extension specialist"],
+    "prevention": ["Use certified disease-free seed and transplants", "Use drip irrigation and rotate away from solanaceous crops"],
+    "precautions": "Follow local labels and extension guidance for any plant-protection product.",
+    "source": "University of Minnesota Extension, Tomato diseases: https://extension.umn.edu/disease-management/tomato-diseases"
+  },
+  {
+    "id": "doc_tomato_irrigation_leaf_wetness",
+    "crop": "Tomato",
+    "disease": "Tomato Irrigation and Leaf Wetness",
+    "topic": "Irrigation",
+    "category": "Water Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Disease pressure increases when foliage remains wet", "Uneven growth can follow irregular soil moisture"],
+    "causes": ["Overhead irrigation wets foliage", "Large swings between dry and saturated soil"],
+    "management": ["Irrigate the root zone when soil moisture requires it rather than on a fixed calendar", "Use mulch to reduce evaporation and soil splash"],
+    "prevention": ["Prefer drip or furrow irrigation where appropriate", "Irrigate early enough for foliage to dry and avoid unnecessary leaf wetness"],
+    "precautions": "Adjust timing and amount to soil type, weather, crop stage, and local extension recommendations.",
+    "source": "University of California Agriculture and Natural Resources, Tomato production: https://ipm.ucanr.edu/agriculture/tomato/"
+  },
+  {
+    "id": "doc_tomato_pest_whitefly_aphid_ipm",
+    "crop": "Tomato",
+    "disease": "Tomato Whitefly and Aphid IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Bemisia tabaci and Aphididae",
+    "symptoms": ["Leaf curling or yellowing", "Sticky honeydew and sooty mold", "Visible insects on leaf undersides"],
+    "causes": ["Pest populations increase with susceptible plants and excess nitrogen growth"],
+    "management": ["Scout leaf undersides and use thresholds recommended locally", "Conserve beneficial insects and remove heavily infested plant parts"],
+    "prevention": ["Use insect exclusion for young plants where practical", "Control weeds that can host pests and avoid unnecessary broad-spectrum sprays"],
+    "precautions": "Identify the pest before treatment and follow local label, re-entry, and harvest restrictions.",
+    "source": "UC Integrated Pest Management, Tomato pests: https://ipm.ucanr.edu/agriculture/tomato/"
+  },
+  {
+    "id": "doc_potato_soil_requirements",
+    "crop": "Potato",
+    "disease": "Potato Soil Preparation and pH",
+    "topic": "Soil Management",
+    "category": "Soil Requirements",
+    "scientific_name": "N/A",
+    "symptoms": ["Poor emergence or misshapen tubers", "Scab risk can increase in suitable soil conditions"],
+    "causes": ["Compacted, poorly drained, or unsuitable-pH soil"],
+    "management": ["Prepare a loose, well-drained seedbed and test soil before amendments", "Use soil-test results to guide nutrient applications"],
+    "prevention": ["Avoid planting in compacted or waterlogged areas", "Maintain organic matter and rotate crops"],
+    "precautions": "Do not apply lime or fertilizer without a soil test and local recommendation.",
+    "source": "Penn State Extension, Potato production: https://extension.psu.edu/potato-production"
+  },
+  {
+    "id": "doc_potato_irrigation_tuber_growth",
+    "crop": "Potato",
+    "disease": "Potato Irrigation and Tuber Growth",
+    "topic": "Irrigation",
+    "category": "Water Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Cracking, poor tuber development, or irregular size", "Disease risk after prolonged wet foliage"],
+    "causes": ["Uneven soil moisture during tuber initiation and bulking"],
+    "management": ["Maintain relatively even root-zone moisture and monitor soil moisture by field conditions", "Reduce irrigation as vines mature according to local production guidance"],
+    "prevention": ["Use irrigation methods that limit foliage wetness", "Ensure drainage before planting"],
+    "precautions": "Irrigation needs vary with soil, weather, cultivar, and growth stage.",
+    "source": "University of Maine Cooperative Extension, Potato production: https://extension.umaine.edu/publications/2412e/"
+  },
+  {
+    "id": "doc_potato_aphid_beetle_ipm",
+    "crop": "Potato",
+    "disease": "Potato Aphid and Colorado Potato Beetle IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Aphididae and Leptinotarsa decemlineata",
+    "symptoms": ["Leaf chewing and defoliation", "Curled leaves or honeydew from aphids"],
+    "causes": ["Pest adults, larvae, and vectors colonizing potato foliage"],
+    "management": ["Scout plants and identify life stages before action", "Use crop rotation and conserve natural enemies"],
+    "prevention": ["Remove volunteer potatoes and manage weeds", "Use resistant or less susceptible cultivars when available locally"],
+    "precautions": "Use only locally registered products and rotate modes of action when treatment is justified.",
+    "source": "University of Minnesota Extension, Potato insects: https://extension.umn.edu/vegetables/potato"
+  },
+  {
+    "id": "doc_apple_scab_management",
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Venturia inaequalis",
+    "symptoms": ["Olive-green velvety spots on leaves", "Scabby lesions on fruit and premature leaf drop"],
+    "causes": ["Spores from infected fallen leaves spread during wet spring weather"],
+    "management": ["Remove or shred fallen leaves to reduce inoculum", "Use locally timed, registered disease management based on weather and extension alerts"],
+    "prevention": ["Plant resistant cultivars where suitable", "Maintain canopy air flow through appropriate pruning"],
+    "precautions": "Follow regional apple scab forecasting and product labels.",
+    "source": "Cornell Cooperative Extension, Apple scab: https://blogs.cornell.edu/fruit/plant-diseases/apple-scab/"
+  },
+  {
+    "id": "doc_apple_irrigation_soil",
+    "crop": "Apple",
+    "disease": "Apple Orchard Water and Soil Management",
+    "topic": "Irrigation",
+    "category": "Orchard Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Poor shoot growth or fruit size under water stress", "Root problems in saturated soil"],
+    "causes": ["Insufficient or excessive root-zone water"],
+    "management": ["Monitor soil moisture in the root zone and adjust irrigation to tree age and weather", "Maintain drainage and avoid standing water"],
+    "prevention": ["Use mulch away from the trunk to conserve moisture", "Keep irrigation water off foliage when possible"],
+    "precautions": "Use local orchard water-balance recommendations for scheduling.",
+    "source": "Penn State Extension, Irrigation management in tree fruit: https://extension.psu.edu/irrigation-management-in-tree-fruit"
+  },
+  {
+    "id": "doc_apple_codling_moth_ipm",
+    "crop": "Apple",
+    "disease": "Codling Moth IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Cydia pomonella",
+    "symptoms": ["Entry holes and frass at the fruit calyx or side", "Larval tunnels into the apple core"],
+    "causes": ["Codling moth eggs and larvae developing in orchard fruit"],
+    "management": ["Use pheromone traps and degree-day or local monitoring information", "Remove infested fruit and follow local extension timing"],
+    "prevention": ["Sanitize dropped fruit", "Use mating-disruption or other IPM tools where locally recommended"],
+    "precautions": "Do not use calendar sprays without scouting or regional pest advisories.",
+    "source": "UC Integrated Pest Management, Codling moth: https://ipm.ucanr.edu/agriculture/apple-and-pear/codling-moth/"
+  },
+  {
+    "id": "doc_grape_powdery_mildew",
+    "crop": "Grape",
+    "disease": "Grape Powdery Mildew",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Erysiphe necator",
+    "symptoms": ["White powdery growth on leaves and shoots", "Infected berries may crack or fail to develop"],
+    "causes": ["Fungus favored by dense canopies and warm conditions"],
+    "management": ["Improve canopy exposure with appropriate training and pruning", "Use locally registered management based on disease risk and extension guidance"],
+    "prevention": ["Plant tolerant cultivars where available", "Scout early during susceptible growth stages"],
+    "precautions": "Avoid applying products outside their labeled crop and disease use.",
+    "source": "UC Integrated Pest Management, Grape powdery mildew: https://ipm.ucanr.edu/agriculture/grape/powdery-mildew/"
+  },
+  {
+    "id": "doc_grape_irrigation_canopy",
+    "crop": "Grape",
+    "disease": "Grape Irrigation and Canopy Management",
+    "topic": "Irrigation",
+    "category": "Water Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Water stress can reduce shoot and berry development", "Dense wet canopies favor disease"],
+    "causes": ["Irrigation not matched to vine growth stage and soil water holding capacity"],
+    "management": ["Monitor vine and soil water status and schedule irrigation by need", "Use trellising and canopy practices that improve air movement"],
+    "prevention": ["Prefer methods that deliver water to the root zone", "Maintain drainage and avoid prolonged saturation"],
+    "precautions": "Grape water requirements depend on climate, cultivar, soil, and production goals.",
+    "source": "Oregon State University Extension, Wine grape irrigation: https://extension.oregonstate.edu/catalog/pub/em-9027-irrigation-wine-grapes"
+  },
+  {
+    "id": "doc_grape_leafhopper_ipm",
+    "crop": "Grape",
+    "disease": "Grape Leafhopper IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Cicadellidae",
+    "symptoms": ["Fine pale stippling on leaves", "Leafhopper nymphs and cast skins on undersides"],
+    "causes": ["Leafhoppers feeding on grape foliage"],
+    "management": ["Scout foliage and use local thresholds", "Conserve predatory insects and manage cover crops appropriately"],
+    "prevention": ["Maintain balanced vine vigor", "Use targeted interventions only when monitoring shows they are needed"],
+    "precautions": "Confirm pest identity before any treatment.",
+    "source": "UC Integrated Pest Management, Grape leafhoppers: https://ipm.ucanr.edu/agriculture/grape/leafhoppers/"
+  },
+  {
+    "id": "doc_corn_northern_leaf_blight",
+    "crop": "Corn",
+    "disease": "Corn Northern Leaf Blight",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Exserohilum turcicum",
+    "symptoms": ["Long gray-green cigar-shaped lesions on leaves", "Premature loss of leaf area"],
+    "causes": ["Fungal spores spread in humid weather and crop residue"],
+    "management": ["Use resistant hybrids where available", "Use local disease scouting and extension recommendations"],
+    "prevention": ["Rotate crops and manage residue where appropriate", "Avoid unnecessary overhead irrigation"],
+    "precautions": "Disease management decisions should reflect hybrid resistance and local risk.",
+    "source": "Iowa State University Extension, Northern corn leaf blight: https://crops.extension.iastate.edu/encyclopedia/northern-corn-leaf-blight"
+  },
+  {
+    "id": "doc_corn_irrigation_soil",
+    "crop": "Corn",
+    "disease": "Corn Water and Soil Management",
+    "topic": "Soil Management",
+    "category": "Water Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Wilting or poor kernel fill under water stress", "Root injury and nutrient loss in waterlogged soil"],
+    "causes": ["Water supply not matching crop demand and soil drainage"],
+    "management": ["Use soil testing and monitor crop water demand", "Maintain drainage and schedule irrigation around sensitive growth stages"],
+    "prevention": ["Build soil structure with appropriate residue and organic matter practices", "Avoid compaction when soil is wet"],
+    "precautions": "Use local evapotranspiration and soil recommendations for irrigation scheduling.",
+    "source": "University of Nebraska-Lincoln Extension, Irrigating corn: https://extension.unl.edu/statewide/dodge/irrigating-corn/"
+  },
+  {
+    "id": "doc_corn_earworm_ipm",
+    "crop": "Corn",
+    "disease": "Corn Earworm IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Helicoverpa zea",
+    "symptoms": ["Silk feeding and damaged kernels near the ear tip", "Larvae or frass in ears"],
+    "causes": ["Moths lay eggs on silks and larvae enter developing ears"],
+    "management": ["Monitor moth activity and silking fields", "Use locally recommended biological or chemical controls only when thresholds justify action"],
+    "prevention": ["Synchronize planting where appropriate and manage volunteer hosts", "Use resistant hybrids if available"],
+    "precautions": "Treatment timing is crop-stage and region specific.",
+    "source": "University of Minnesota Extension, Corn earworm: https://extension.umn.edu/corn-pest-management/corn-earworm"
+  },
+  {
+    "id": "doc_pepper_phytophthora",
+    "crop": "Pepper",
+    "disease": "Pepper Phytophthora Blight",
+    "topic": "Crop Disease",
+    "category": "Oomycete Disease",
+    "scientific_name": "Phytophthora capsici",
+    "symptoms": ["Sudden wilt", "Dark lesions on stems and fruit", "Root and crown rot"],
+    "causes": ["Pathogen survives in soil and spreads in moving water"],
+    "management": ["Remove infected plants and improve drainage", "Use resistant rootstocks or cultivars where available"],
+    "prevention": ["Use raised beds and avoid moving contaminated soil or water", "Rotate away from susceptible crops"],
+    "precautions": "Do not move irrigation water from infested to clean fields.",
+    "source": "Cornell Vegetable Program, Phytophthora capsici: https://blogs.cornell.edu/livegpath/gallery/pepper/phytophthora-blight/"
+  },
+  {
+    "id": "doc_pepper_soil_fertilization",
+    "crop": "Pepper",
+    "disease": "Pepper Soil Fertility and pH",
+    "topic": "Soil Management",
+    "category": "Nutrient Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Poor growth or nutrient deficiency symptoms", "Excess vegetative growth with delayed fruiting"],
+    "causes": ["Unbalanced nutrients or unsuitable soil pH"],
+    "management": ["Base fertilizer decisions on a soil test", "Use balanced fertility and avoid excessive nitrogen"],
+    "prevention": ["Incorporate organic matter based on soil conditions", "Maintain consistent moisture to reduce blossom-end disorder risk"],
+    "precautions": "Do not diagnose nutrient deficiency from leaf color alone.",
+    "source": "University of Minnesota Extension, Growing peppers: https://extension.umn.edu/vegetables/growing-peppers"
+  },
+  {
+    "id": "doc_pepper_thrips_aphids_ipm",
+    "crop": "Pepper",
+    "disease": "Pepper Thrips and Aphid IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Thripidae and Aphididae",
+    "symptoms": ["Silvery scarring or distorted young leaves", "Sticky honeydew and curled leaves"],
+    "causes": ["Small insects feed on tender leaves, flowers, and fruit"],
+    "management": ["Scout flowers and growing points", "Protect beneficial insects and remove heavily infested plant material"],
+    "prevention": ["Use clean transplants and manage weeds", "Use reflective mulch or exclusion where locally suitable"],
+    "precautions": "Identify the pest and consult local thresholds before treatment.",
+    "source": "UC Integrated Pest Management, Pepper pests: https://ipm.ucanr.edu/agriculture/pepper/"
+  },
+  {
+    "id": "doc_peach_brown_rot",
+    "crop": "Peach",
+    "disease": "Peach Brown Rot",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Monilinia fructicola",
+    "symptoms": ["Rapid brown decay on ripening fruit", "Tan spore tufts and shriveled mummies"],
+    "causes": ["Fungus enters wounded or ripening fruit, especially in wet weather"],
+    "management": ["Remove rotted fruit and mummies from trees and orchard floor", "Prune to improve air circulation and follow local disease advisories"],
+    "prevention": ["Handle fruit carefully to avoid wounds", "Maintain sanitation and appropriate canopy openness"],
+    "precautions": "Use only products registered for peach brown rot in the local jurisdiction.",
+    "source": "Penn State Extension, Brown rot of stone fruits: https://extension.psu.edu/brown-rot-of-stone-fruit"
+  },
+  {
+    "id": "doc_peach_irrigation_mulch",
+    "crop": "Peach",
+    "disease": "Peach Orchard Irrigation and Mulching",
+    "topic": "Crop Management",
+    "category": "Water Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Reduced growth under drought stress", "Root problems under saturated conditions"],
+    "causes": ["Unmanaged soil moisture and competition from weeds"],
+    "management": ["Monitor root-zone moisture and irrigate according to tree age and weather", "Use organic mulch while keeping it away from the trunk"],
+    "prevention": ["Maintain drainage and avoid wetting foliage", "Keep a weed-free strip around young trees"],
+    "precautions": "Avoid mulch contact with bark because it can promote trunk problems.",
+    "source": "University of Georgia Extension, Home garden peaches: https://extension.uga.edu/publications/detail.html?number=C1064"
+  },
+  {
+    "id": "doc_strawberry_gray_mold",
+    "crop": "Strawberry",
+    "disease": "Strawberry Gray Mold",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Botrytis cinerea",
+    "symptoms": ["Soft brown fruit rot", "Gray fuzzy mold on infected fruit"],
+    "causes": ["Fungus develops on flowers and fruit during cool, wet conditions"],
+    "management": ["Remove diseased fruit and improve air movement", "Avoid harvesting or handling when plants are wet"],
+    "prevention": ["Use straw or suitable mulch to keep fruit off wet soil", "Use drip irrigation and adequate plant spacing"],
+    "precautions": "Follow local resistance-management and label guidance for any fungicide.",
+    "source": "UMass Extension, Strawberry diseases: https://www.umass.edu/agriculture-food-environment/vegetable/fact-sheets/strawberry-diseases"
+  },
+  {
+    "id": "doc_strawberry_renovation_irrigation",
+    "crop": "Strawberry",
+    "disease": "Strawberry Renovation and Irrigation",
+    "topic": "Crop Management",
+    "category": "Good Agricultural Practices",
+    "scientific_name": "N/A",
+    "symptoms": ["Weak runners and low yield after harvest", "Stress from shallow or irregular watering"],
+    "causes": ["Crowded beds, depleted soil, and insufficient post-harvest care"],
+    "management": ["Renovate established June-bearing beds according to local guidance", "Maintain even moisture in the shallow root zone"],
+    "prevention": ["Use appropriate spacing and remove excess runners", "Test soil and replenish nutrients based on results"],
+    "precautions": "Renovation timing differs by cultivar and production system.",
+    "source": "Penn State Extension, Strawberry production: https://extension.psu.edu/strawberry-production"
+  },
+  {
+    "id": "doc_cherry_cherry_leaf_spot",
+    "crop": "Cherry",
+    "disease": "Cherry Leaf Spot",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Blumeriella jaapii",
+    "symptoms": ["Small purple spots on leaves", "Yellowing and premature defoliation"],
+    "causes": ["Spores develop in fallen infected leaves and spread in wet weather"],
+    "management": ["Remove or manage fallen leaves and monitor new foliage", "Use local extension disease forecasts"],
+    "prevention": ["Maintain canopy air movement", "Choose tolerant cultivars where available"],
+    "precautions": "Use locally registered products only and follow label restrictions.",
+    "source": "Michigan State University Extension, Cherry leaf spot: https://www.canr.msu.edu/ipm/diseases/cherry_leaf_spot"
+  },
+  {
+    "id": "doc_cherry_fruit_fly_ipm",
+    "crop": "Cherry",
+    "disease": "Cherry Fruit Fly IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Rhagoletis spp.",
+    "symptoms": ["Maggots in fruit", "Small punctures or dark spots on ripening cherries"],
+    "causes": ["Adult flies lay eggs in developing fruit"],
+    "management": ["Use monitoring traps and local action thresholds", "Remove dropped and infested fruit"],
+    "prevention": ["Harvest promptly and maintain orchard sanitation", "Use exclusion or approved controls where locally suitable"],
+    "precautions": "Follow regional monitoring and pre-harvest interval requirements.",
+    "source": "Oregon State University Extension, Cherry fruit fly: https://extension.oregonstate.edu/catalog/pub/pnw-626-cherry-fruit-fly"
+  },
+  {
+    "id": "doc_blueberry_phytophthora_root_rot",
+    "crop": "Blueberry",
+    "disease": "Blueberry Phytophthora Root Rot",
+    "topic": "Crop Disease",
+    "category": "Root Disease",
+    "scientific_name": "Phytophthora cinnamomi and related species",
+    "symptoms": ["Poor growth and small leaves", "Wilting despite wet soil", "Root browning"],
+    "causes": ["Saturated, poorly drained soil favors root infection"],
+    "management": ["Improve drainage and avoid planting in waterlogged areas", "Remove severely affected plants and use clean planting material"],
+    "prevention": ["Build raised beds with suitable acidic media", "Use irrigation that maintains moisture without saturation"],
+    "precautions": "Confirm root disease diagnosis before treatment.",
+    "source": "Oregon State University Extension, Blueberry diseases: https://extension.oregonstate.edu/catalog/pub/pnw-613-blueberry-diseases"
+  },
+  {
+    "id": "doc_blueberry_soil_pH_mulch",
+    "crop": "Blueberry",
+    "disease": "Blueberry Soil pH and Mulching",
+    "topic": "Soil Management",
+    "category": "Soil Requirements",
+    "scientific_name": "N/A",
+    "symptoms": ["Chlorosis and weak growth in unsuitable soil", "Poor yield from shallow or damaged roots"],
+    "causes": ["Blueberries require acidic, well-drained soil and have shallow roots"],
+    "management": ["Test soil before planting and use locally recommended amendments", "Use organic mulch to conserve moisture and suppress weeds"],
+    "prevention": ["Avoid frequent cultivation near roots", "Maintain consistent moisture without waterlogging"],
+    "precautions": "Do not acidify soil without a laboratory soil test and extension guidance.",
+    "source": "University of Maine Cooperative Extension, Growing highbush blueberries: https://extension.umaine.edu/publications/2257e/"
+  },
+  {
+    "id": "doc_raspberry_cane_blight",
+    "crop": "Raspberry",
+    "disease": "Raspberry Cane Diseases",
+    "topic": "Crop Disease",
+    "category": "Cane Disease",
+    "scientific_name": "Leptosphaeria spp. and related fungi",
+    "symptoms": ["Dark lesions on canes", "Wilting or dieback of fruiting laterals"],
+    "causes": ["Wounds and wet conditions allow cane pathogens to enter"],
+    "management": ["Prune and destroy infected canes during dry weather", "Improve air movement and avoid wounding canes"],
+    "prevention": ["Use clean planting stock and trellis canes", "Control weeds and avoid overhead irrigation"],
+    "precautions": "Disinfect pruning tools between visibly diseased plants.",
+    "source": "Penn State Extension, Raspberry diseases: https://extension.psu.edu/raspberry-diseases"
+  },
+  {
+    "id": "doc_raspberry_irrigation_spacing",
+    "crop": "Raspberry",
+    "disease": "Raspberry Irrigation and Plant Spacing",
+    "topic": "Crop Management",
+    "category": "Good Agricultural Practices",
+    "scientific_name": "N/A",
+    "symptoms": ["Small fruit under water stress", "Disease pressure in dense, wet rows"],
+    "causes": ["Shallow roots, uneven irrigation, and poor canopy ventilation"],
+    "management": ["Use drip irrigation and monitor soil moisture", "Thin and train canes to maintain row air movement"],
+    "prevention": ["Keep rows weed-managed and appropriately spaced", "Mulch to conserve moisture without burying crowns"],
+    "precautions": "Spacing and pruning systems depend on cultivar and local climate.",
+    "source": "Oregon State University Extension, Commercial red raspberry production: https://extension.oregonstate.edu/catalog/pub/pnw-598-commercial-red-raspberry-production"
+  },
+  {
+    "id": "doc_soybean_sudden_death_syndrome",
+    "crop": "Soybean",
+    "disease": "Soybean Sudden Death Syndrome",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Fusarium virguliforme",
+    "symptoms": ["Interveinal leaf chlorosis and necrosis", "Premature defoliation with infected roots"],
+    "causes": ["Soilborne pathogen favored by wet soil and susceptible varieties"],
+    "management": ["Use resistant varieties and manage fields with local disease recommendations", "Avoid moving infested soil between fields"],
+    "prevention": ["Improve drainage where possible", "Use crop rotation and certified seed"],
+    "precautions": "Confirm diagnosis because symptoms overlap with other soybean disorders.",
+    "source": "Iowa State University Extension, Soybean sudden death syndrome: https://crops.extension.iastate.edu/encyclopedia/sudden-death-syndrome"
+  },
+  {
+    "id": "doc_soybean_nodulation_nutrients",
+    "crop": "Soybean",
+    "disease": "Soybean Nodulation and Nutrient Management",
+    "topic": "Soil Management",
+    "category": "Nutrient Management",
+    "scientific_name": "Bradyrhizobium japonicum",
+    "symptoms": ["Poor vigor or pale plants when biological nitrogen fixation is weak", "Uneven growth in compacted soil"],
+    "causes": ["Inadequate nodulation, unsuitable pH, compaction, or nutrient imbalance"],
+    "management": ["Use soil tests and inspect roots for effective nodules", "Correct pH and nutrient issues according to local recommendations"],
+    "prevention": ["Use appropriate inoculant on seed where recommended", "Avoid compaction and waterlogging"],
+    "precautions": "Do not apply nitrogen routinely without crop and soil diagnosis.",
+    "source": "University of Minnesota Extension, Soybean nutrient management: https://extension.umn.edu/crop-specific-needs/soybean"
+  },
+  {
+    "id": "doc_squash_powdery_mildew",
+    "crop": "Squash",
+    "disease": "Squash Powdery Mildew",
+    "topic": "Crop Disease",
+    "category": "Fungal Disease",
+    "scientific_name": "Podosphaera xanthii and Golovinomyces spp.",
+    "symptoms": ["White powdery colonies on leaves", "Premature yellowing and reduced photosynthesis"],
+    "causes": ["Mildew fungi spread through air and dense canopies"],
+    "management": ["Remove badly affected leaves where practical and improve air movement", "Use resistant varieties and local extension recommendations"],
+    "prevention": ["Provide suitable spacing and avoid excessive nitrogen", "Keep weeds controlled and scout regularly"],
+    "precautions": "Confirm the diagnosis before using a disease-control product.",
+    "source": "Cornell Vegetable Program, Cucurbit powdery mildew: https://blogs.cornell.edu/livegpath/gallery/cucurbits/powdery-mildew/"
+  },
+  {
+    "id": "doc_squash_pumpkin_beetle_ipm",
+    "crop": "Squash",
+    "disease": "Squash Beetle and Vine Borer IPM",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "Acalymma vittatum and Melittia cucurbitae",
+    "symptoms": ["Leaf feeding and bacterial wilt risk", "Sudden vine wilt or sawdust-like frass at the stem base"],
+    "causes": ["Cucumber beetles and squash vine borer larvae attack cucurbit plants"],
+    "management": ["Scout plants and stems frequently", "Remove and destroy infested plant parts where feasible and use row covers before flowering"],
+    "prevention": ["Rotate cucurbit fields and remove crop residue", "Use resistant or tolerant varieties where available"],
+    "precautions": "Use local thresholds and crop-specific labels for any treatment.",
+    "source": "University of Minnesota Extension, Squash and pumpkin insects: https://extension.umn.edu/vegetables/growing-squash-and-pumpkins"
+  },
+  {
+    "id": "doc_general_soil_testing_ph",
+    "crop": "General",
+    "disease": "Soil Testing and pH Management",
+    "topic": "Soil Management",
+    "category": "Soil Preparation",
+    "scientific_name": "N/A",
+    "symptoms": ["Uneven growth and nutrient deficiency symptoms", "Poor root development"],
+    "causes": ["Unknown soil fertility, pH, salinity, or compaction"],
+    "management": ["Collect a representative soil sample and use a laboratory test", "Base lime, sulfur, and fertilizer decisions on test results"],
+    "prevention": ["Test before planting and periodically thereafter", "Record amendments and crop performance by field"],
+    "precautions": "Soil pH targets differ by crop; use crop-specific extension guidance.",
+    "source": "USDA Natural Resources Conservation Service, Soil health: https://www.nrcs.usda.gov/conservation-basics/soil-health"
+  },
+  {
+    "id": "doc_general_ipm_foundations",
+    "crop": "General",
+    "disease": "Integrated Pest Management Foundations",
+    "topic": "Pest Management",
+    "category": "Integrated Pest Management",
+    "scientific_name": "N/A",
+    "symptoms": ["Unidentified plant injury or pest presence"],
+    "causes": ["Pests, pathogens, environmental stress, or nutrient disorders"],
+    "management": ["Identify the cause, monitor population and crop damage, and use action thresholds", "Prefer prevention, biological, cultural, and mechanical controls before targeted chemical control"],
+    "prevention": ["Scout routinely and keep field records", "Protect beneficial organisms and rotate crops when appropriate"],
+    "precautions": "Read and follow the local product label; never infer dosage from general advice.",
+    "source": "USDA National Institute of Food and Agriculture, Integrated Pest Management: https://www.nifa.usda.gov/topics/integrated-pest-management"
+  },
+  {
+    "id": "doc_general_mulching_good_practices",
+    "crop": "General",
+    "disease": "Mulching and General Crop Management",
+    "topic": "Crop Management",
+    "category": "Good Agricultural Practices",
+    "scientific_name": "N/A",
+    "symptoms": ["Evaporation, weeds, soil splash, and temperature fluctuations"],
+    "causes": ["Bare soil and poorly timed cultivation"],
+    "management": ["Use suitable organic or synthetic mulch to conserve water and suppress weeds", "Keep mulch away from plant crowns and trunks"],
+    "prevention": ["Choose mulch suited to crop and climate", "Combine mulching with crop rotation, sanitation, and appropriate spacing"],
+    "precautions": "Avoid contaminated mulch and excessive thickness that restricts aeration.",
+    "source": "USDA Natural Resources Conservation Service, Soil health and residue management: https://www.nrcs.usda.gov/conservation-basics/soil-health"
+  }
+]

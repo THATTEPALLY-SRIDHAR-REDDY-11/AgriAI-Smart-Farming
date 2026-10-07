@@ -1,0 +1,49 @@
+# Environment Secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# Java / Maven / Backend
+target/
+.mvn/
+*.class
+*.jar
+*.war
+
+# Python / AI Service / Model
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+env/
+ai-env/
+chroma_db/
+ai-model/data/
+# Keep the deployment copy in ai-service/models; the training duplicate is local-only.
+ai-model/models/plant_disease_mobilenetv2.keras
+
+# IDE / System
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs / temporary files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.temp
